@@ -1,16 +1,25 @@
-## Hi there 👋
+# Alexander Ro
+****
 
-<!--
-**Spaceboy450/Spaceboy450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine learning engineer / Data Scientist**
 
-Here are some ideas to get you started:
+## ML Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA9?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **[HSE](https://www.hse.ru/en/) (Since 2024)**
+
+## 💻 Projects
+- [Credit scoring model](https://github.com/Spaceboy450/CreditRuiner.git)
+
+## 🌐 Languages
+- Russian - native  
+- English - C1
+
+## 🎨 Hobbies
+- Football
+- Jet-skiing
