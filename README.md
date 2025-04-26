@@ -10,6 +10,11 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA9?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 
+## 🛠 Other Skills
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 ## 🎓 Education
 - **[HSE](https://www.hse.ru/en/) (Since 2024)**
 
