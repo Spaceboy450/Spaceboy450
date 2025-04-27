@@ -1,5 +1,4 @@
 # Alexander Ro
-****
 
 **Machine learning engineer / Data Scientist**
 
@@ -17,6 +16,7 @@
 
 ## 🎓 Education
 - **[HSE](https://www.hse.ru/en/) (Since 2024)**
+- **[Minor](https://electives.hse.ru/minor_intel/) (Data mining)**
 
 ## 💻 Projects
 - [Credit scoring model](https://github.com/Spaceboy450/CreditRuiner.git)
