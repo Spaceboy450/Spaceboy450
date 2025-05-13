@@ -22,6 +22,7 @@
 
 ## 💻 Projects
 - [Credit scoring model](https://github.com/Spaceboy450/CreditRuiner.git)
+- [Mushrooms classification and data analysis](https://github.com/Spaceboy450/data_analysis_hse.git)
 
 ## 🌐 Languages
 - Russian - native  
