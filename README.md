@@ -18,7 +18,8 @@
 
 ## 🎓 Education
 - **[HSE](https://www.hse.ru/en/) (Since 2024)**
-- **[Minor](https://electives.hse.ru/minor_intel/) (Data mining)**
+- **[Minor](https://electives.hse.ru/minor_intel/)**
+- **[Yandex.Lyceum](https://lyceum.yandex.ru/) ([Diploma](https://disk.yandex.ru/i/-xnWh1ahPIE6Ww))**
 
 ## 💻 Projects
 - [Credit scoring model](https://github.com/Spaceboy450/CreditRuiner.git)
